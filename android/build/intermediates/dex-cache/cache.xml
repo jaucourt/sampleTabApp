@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_2a2167259f612c98e5a9cc1087be7ab1fcfa3e61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_c0dd9f388672f527b47f65c5f0cdce6e505cccda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_fefd904da1e1b63ca58015318cf8c6e05758d401.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_dc909b3c51ec4402747da5dd5fc58857b4a37575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_ba22594c27719d9f9140252102a64b60dbfcace5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_e67b8d716c4d9adef2caa7d8b1dc851bc9b59665.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_b532162e785e7feb42f80e9dcc3e862948c8fc0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_18bf2f7e5f37af218583b7dd76626d7d606603dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_14010b85b5a0711361e1b21e3c37290d0ff47851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_6e282a3ad64909a34e99b9140712af068c4b9d50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_32bc42af8da04dbaa6b1a812091dca8b0df79615.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_6095d157ee8a1fd157804f4e0706ffebb84e80c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_9b4bcb8c77a098cb6f1caa3b265aa650b6e527eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_5add70e94ca04efb1f3c0801177d99dbeb8dcb87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_d52a7a56d81d6640b2872e19595ee1495c50fdf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_65b30b476f9a88c651467fd307a0e85630ad48c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_25da10c22020ada84edcb5512003527443e69a92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_b24c8f46cb555753ae65a8511ba65e36a7b8eef3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_496ddaca28b732f932a5f5031ce8adc3d88bf83c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_6c118d61691443519a6258b2cb8ad3921487e3cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_0793106505174476ccb71f109f36f841a8c19fcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_0afabf59b1efb8a98f876f8c333815d197be01d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_9b1923f5f190207255cdb2a22f3f4192843dda31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_8b728782f434b94c3f844c76d6c8d5ab5aa708cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d9a6a4fcbcb91ebd6740e1a954f5940ec4c4462e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_8b2848cced0ca1d10aa4ad073fd40c377bb39665.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_e60a4190c8dcf0d87ba8ae2b518e5a5292cf4f42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_9408725db2a6c6b7a73d9342ed04763f97b19cb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_ef25766c558d0bdc7a730dcf3492abec2240b7bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_b454cf7ee8f64d59b71aa5c338e3a0f1f3d6c050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_998eefab53fc76574991d906cc1ef38a89d4a17c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_9aeac36cfbefc465f95938c36c03020bca3c6646.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_3251617b953665dff85faf9595b1ff993665eb31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_81bb9b2e48eeb2d1c910e7f0b319dc735b85b996.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+#Tue Jun 19 14:43:47 CEST 2018
+base.0=/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

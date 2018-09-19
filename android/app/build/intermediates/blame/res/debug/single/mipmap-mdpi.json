@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/oryoffe/dev/create-rnw-app/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/oryoffe/dev/create-rnw-app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/oryoffe/dev/oss/create-react-native-web-app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
